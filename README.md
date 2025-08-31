@@ -2,6 +2,11 @@
 
 A specialized Claude agent that analyzes project repositories and provides actionable recommendations to align them with community best practices and industry standards.
 
+<p align="center">
+<img src="https://repository-images.githubusercontent.com/1047691860/943c2331-ccf3-451e-805b-5c8dc55325e5" width="500" />
+<p align="center">
+
+
 ## What It Does
 
 The Repository Expert agent comprehensively analyzes your codebase structure, identifies organizational issues, and generates detailed reports with prioritized recommendations for improvement. It acts as an automated code organization consultant that understands best practices across multiple programming languages and frameworks.
